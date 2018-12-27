@@ -11,3 +11,6 @@ except IndexError as e:
 except Exception as e:
         print("Something went very wrong."
               " Error type: ", e)
+else:
+
+finally:
